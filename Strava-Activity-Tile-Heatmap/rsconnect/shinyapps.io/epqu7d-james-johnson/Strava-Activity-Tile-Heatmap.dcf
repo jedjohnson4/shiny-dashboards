@@ -1,0 +1,13 @@
+name: Strava-Activity-Tile-Heatmap
+title: Strava-Activity-Tile-Heatmap
+username: epqu7d-james-johnson
+account: epqu7d-james-johnson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13086054
+bundleId: 9252043
+url: https://epqu7d-james-johnson.shinyapps.io/Strava-Activity-Tile-Heatmap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.html|README.md
